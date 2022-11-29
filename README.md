@@ -1,2 +1,2 @@
-# devweekgit.github.io
+# devjourneygit.github.io
 CV Dev Journey
